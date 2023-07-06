@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayturgan 
-- 👀 I’m interested in 3D modeling and drawing and web-programming.
-- 🌱 I’m currently learning web-programming specifically frontend development.
+- 👀 I’m interested in 3D modeling and drawing and programming.
+- 🌱 I’m currently learning programming specifically backend development.
 - 📫 How to contact me: ayturgankgs@gmail.com
 
 <!---
