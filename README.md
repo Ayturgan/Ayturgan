@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ayturgan 
-- 👀 I’m interested in 3D modeling and drawing and programming.
-- 🌱 I’m currently learning programming specifically backend development.
-- 📫 How to contact me: ayturgankgs@gmail.com
+- 👋 Hello, I'm @Ayturgan, an aspiring Python developer with a passion for learning and growing in the field of software development.
+-  My ultimate goal is to become a Full Stack Developer, where I can apply my skills in both front-end and back-end technologies to create comprehensive and efficient solutions.
+- 📫 How to contact me: karagulovaayturgan@gmail.com
 
 <!---
 Ayturgan/Ayturgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
